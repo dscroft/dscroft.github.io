@@ -1,1 +1,5 @@
-index
+---
+layout: home 
+---
+
+Welcome
