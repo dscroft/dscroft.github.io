@@ -2,6 +2,7 @@
 layout: home 
 ---
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGUf4awBDACvKZc+ZkPcOpm9WK/EAOnYytP2MVH6DsYCtJt+eYhST8xDsPFm
@@ -43,4 +44,4 @@ Idf5NaHXbvyyvwXQOaDZ5VOIYhD2/fZ62atyX+s7wjKVtO0q36MIjWJEsctcZdCX
 OLrttbCGQdpvjUxJXzNWy0FJG46HvEZsAdKgcMU=
 =LsW6
 -----END PGP PUBLIC KEY BLOCK-----
-
+```
