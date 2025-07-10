@@ -2,6 +2,9 @@
 layout: home 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8234300033028557"
+     crossorigin="anonymous"></script>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
