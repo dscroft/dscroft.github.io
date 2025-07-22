@@ -7,6 +7,9 @@ layout: home
 
 # LiaScript teaching materials
 
+This page contains links to examples of LiaScript teaching materials created by me. 
+Anyone is welcome to make use of these materials but they are predominantly presented here as a demonstration of LiaScript capabilities and I make no promise that they will be remain stable or unchanged in future.
+
 ## CAN hacking
 
 Demonstration of the security issues with traditional Controller Area Network (CAN) bus systems, and unencrypted bus based systems in general for automotive and industrial control systems.
