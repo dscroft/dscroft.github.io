@@ -5,46 +5,33 @@ layout: home
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8234300033028557"
      crossorigin="anonymous"></script>
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
+# LiaScript teaching materials
 
-mQGNBGUf4awBDACvKZc+ZkPcOpm9WK/EAOnYytP2MVH6DsYCtJt+eYhST8xDsPFm
-xmjDr68Dn9pSVB23bMzeLrVhpzeSIdZ6Za9ZVBZW7OCdvj4EDDQW23XnMnIY70Hf
-rho0TptqjQsjT6h/11Te9BddL+wzc561rOxVfre80RXWPNjazfI7I8LlKv3cxNY7
-WbxbB43bSm04bfRylM0EXpyUuM98vsOe8UH7yxFOsx7tnrNIzH0olM4quSarlxpO
-/Tyh3DT0tKDVtlMGLxYpsq6FcZIA/LVuuEvMdMPGaS+FVpl+tJR0ScAK3bs6DnQ8
-dpqt3U74gL4yCL3Xu8vIaBP6dnUt2IS/mdjkkgZ6dRu4FU7gZBjO3erDyxMjsH2D
-GTMSAy4me8coeG5UTnKTLXYS+FZTXu/BoT25z+CEJdRUtxQvsZdHLbAvI2SyIOze
-FEUSm90ZrAL6vBOmVzCiINoJpHpJJV6XpWgVYfB8VmkLzn2wQ791Kid2RMojdJsp
-VI333QllFO+hdi0AEQEAAbQlRGF2aWQgQ3JvZnQgPGRhdmlkQHNvbWV3ZWJzaXRl
-LmNvLnVrPokB1AQTAQoAPhYhBE+K36AB19wbhqUiuhEF9u0bN/wjBQJlH+GsAhsD
-BQkDwmcABQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEBEF9u0bN/wjlhEL/2Kz
-1pNagSxtdCrVCg2N1RlYIIEGyHeoyZgAAIBQIgozrClAGHWi2ONU6oc80hil9I1j
-wbRYSxTWhIRshJtfucbIXMsurNmTQTlyHfRB1XFPV/2zQ5vgI4FaqpiyajWoFOwm
-lHXdCioK4fBENT15eunkmtpVoTrIew4+9zz9cT6AOZvthSvjBFbo753osGc07IvM
-8MjhEOVcMJs+oEnSxwXsErLt99ka1/iWtJggpslrbfRgDaCddd0TR8zYzsqmthcO
-BbhIUe+4yZ1J4Y4JQwcvSxSh+rVlES9hmdmvgly22pX1C6XY+mT16Yk3l+lC8CcP
-VSmibahVC3o0yu+xonmVOVIr6zmmhFARtncvgGJEeNmGVxfxVq72MvFZkzoEJfeb
-hQUnDz/OBvHns8mAUIe4fh/xOl+BwtdQ1prl8ODvlz8Jg8WHmVMRO8pGSRMwRk1S
-wv2d+8V2ac7YI98OnwTkMcOWzDnFdb53y79LKj4f/VJeo3NlxY95lF49F15b37kB
-jQRlH+GsAQwA5+07+G3vt7dcIGx2TrsXJP46RrpZI63QLrryULrDixQcABjH1Mk9
-EzKb2+/r5q82EBZN++i2FBdh8FTHKw28L9WePBQL334/79YBNf6mfUP6QssY8V9r
-ETCIKr//Evf30WEGaKz1hZapePtLA/TmOjOjXwIWJd4HT2KmznyY2CSsf7bUeTnh
-QcUIl/ticV2jhRFMPSmztahL114RPtKrlBBeWVdMBdYlTta5njk1vGFrns7Zyrqp
-I0NTwTWwdySDeMZDf4MWVqnrY7p08j7mesUqJRTs49YS+YEsORj/RQjYheLN7yEU
-ME+rVBBUw+E2iIVcCpTEztImWSOvvRx+7ok/TfhFjENo/bpGi57vlidF5lUeErwi
-4I/YJEhbVu++TLAQF0cBRZf8THjjqWt7lgP6kqr1F/eZ0pjFE4RkZS5loorDoSsC
-v7WaQVFhhREGTqXR/hqDQSkVRMseN0VrhsH82ZDSmT6vsoDipW2mOj13imYus4P5
-vwCyUJv/aQMhABEBAAGJAbwEGAEKACYWIQRPit+gAdfcG4alIroRBfbtGzf8IwUC
-ZR/hrAIbDAUJA8JnAAAKCRARBfbtGzf8IywFC/4nhPOFmmI/rIKSE+QU0nlXOEpm
-dzbm1GOZKBIKGynDlHPGm+ybXKmXf+4wNsV6eCecEH+oq5V3XALSqNS4QZIC6mky
-bJgSDCE3rcqxoV7VNTfJxXVLTyWIFjNvr2gVZ4BeTFY0qNuhoUs5Cx9mmUhyYbBJ
-3Uzy4Mm2xAeQUtX76oMw6Sl8+6Z3XMZ5PuSbfFnRkxl3A55h/KzM+7O7hdAD6I+f
-Kv5VkRiL6RlnxwmHQrc4yn/DvCCcbApzI7zQb+00sdEW1lToj+OK1+gNJ3FO0/ZG
-qZo3RKrMrf3a4BIbZxexVjEe2Bca/MxxGr4AAEA1Wcsj0iKRJzDP9h3v6OnGca64
-yKB5t5tSgmiRy4bj6qytHQLTq1uvPlgnHPUVRzK4bvMzKCOr24DHPddDE/vn8BHL
-Idf5NaHXbvyyvwXQOaDZ5VOIYhD2/fZ62atyX+s7wjKVtO0q36MIjWJEsctcZdCX
-OLrttbCGQdpvjUxJXzNWy0FJG46HvEZsAdKgcMU=
-=LsW6
------END PGP PUBLIC KEY BLOCK-----
-```
+## CAN hacking
+
+Demonstration of the security issues with traditional Controller Area Network (CAN) bus systems, and unencrypted bus based systems in general for automotive and industrial control systems.
+
+The in class version of this activity runs using CAN shield equipped arduino devices and is intended for groups of 3 students.
+
+The LiaScript classroom version of this activity is intended for remote delivery and groups of 2 students.
+
+- [In class version](https://liascript.github.io/course/?https://dscroft.github.io/liascript_can_hacking/lia.md)
+- [Remote version](https://liascript.github.io/course/?https://dscroft.github.io/liascript_can_hacking/classroom.md)
+
+## SQL injection
+
+Demonstration of SQL injection attacks and how to prevent them, discussion of unsanitized user input in general and how to prevent it.
+
+- [SQL injection](https://liascript.github.io/course/?https://dscroft.github.io/liascript_sqli/lia.md)
+
+## Stereo calibration
+
+Demonstration of stereo camera extrinsic matrix calculation and calibration using Matlab.
+
+- [Stereo calibration](https://liascript.github.io/course/?https://dscroft.github.io/liascript_materials/stereo_calibration_activity/stereo_calibration_activity.md)
+
+## Lego sensors activity
+
+Instructions for the in class sensors analysis activity using Lego Mindstorms EV3 robots and Matlab.
+
+- [Lego sensors activity](https://liascript.github.io/course/?https://dscroft.github.io/liascript_materials/sensors_activity/sensors.md)
